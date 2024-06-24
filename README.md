@@ -9,7 +9,6 @@
 ## 🚀 Technologies I know
 
 - HTML, CSS, Javascript, Typescript
-<!-- - Web 3 (Metamask Integration, Web3.js, Ethers.js, SmartContract Integration, Web3 UI)  -->
 - MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
 - JAM Stack (Headless CMS including Strapi, Contentful and Sanity)
 - Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap, Bulma Css, Sass, Styled components)
@@ -18,3 +17,6 @@
 - Project Management (git, Github, CI/CD, Storybook, Trello, Jira, Bitbucket, Gitlab)
 - Design (Figma, Balsamiq, Canva)
 - Deployment (Vercel, Firebase, Heroku, Surge, Netlify, Shared hosting/C-panel)
+
+
+<!-- - Web 3 (Metamask Integration, Web3.js, Ethers.js, SmartContract Integration, Web3 UI)  -->
