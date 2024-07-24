@@ -13,7 +13,7 @@
 - JAM Stack (Headless CMS including Strapi, Contentful and Sanity)
 - Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap, Bulma Css, Sass, Styled components)
 - Stripe, Razorpay (Payments)
-- Databases (Firebase Firestore, Supabase, MongoDB)
+- Databases (Firebase Firestore, Supabase, MongoDB, MYSQL)
 - Project Management (git, Github, CI/CD, Storybook, Trello, Jira, Bitbucket, Gitlab)
 - Design (Figma, Balsamiq, Canva)
 - Deployment (Vercel, Firebase, Heroku, Surge, Netlify, Shared hosting/C-panel)
