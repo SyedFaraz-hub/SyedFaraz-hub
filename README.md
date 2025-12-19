@@ -8,15 +8,31 @@
 
 ## 🚀 Technologies I know
 
-- HTML, CSS, Javascript, Typescript
-- MERN Stack (MongoDB, ExpressJs, ReactJs, NodeJs)
-- JAM Stack (Headless CMS including Strapi, Contentful and Sanity)
-- Styling (Tailwindcss, Material-UI, Chakra-UI, Materialize, Bootstrap, Sass, Styled components)
-- Stripe, Razorpay (Payments)
-- Databases (Firebase Firestore, Supabase, MongoDB, MYSQL)
-- Project Management (git, Github, CI/CD, Storybook, Trello, Jira, Bitbucket, Gitlab)
-- Design (Figma, Balsamiq, Canva)
-- Deployment (Vercel, Firebase, Heroku, Surge, Netlify, Shared hosting/C-panel)
+Frontend:
+- Languages: HTML5, CSS3, Javascript, Typescript, Python
+- Libraries & Frameworks: ReactJS, NextJS, VueJS, Gatsby, AstroJS, 
+- CSS Libraries: Tailwind CSS, ShadCN, Material UI, Chakra UI, Ant-Design, Bootstrap
+
+Backend:
+- Libraries & Frameworks: NodeJS, ExpressJS, NestJs, Rest API, Graphql
+
+Database: 
+- Databases: SQL, Postgres, MongoDB, Supabase, Firebase
+- ORMs: Mongose, Prisma, TypeORM, Sequelize
+
+Third Party Services & Payment Integrations
+- CMS: Contentful, Strapi, Sanity
+- Payment Gateways: Stripe, Square Up, and more
+
+Deployment: 
+- Development: Surge, Netlify, Heroku, Firebase, Vercel
+- Production: AWS, Digital Ocean, and more
+
+Version Control:
+- Git, GitHub, GitLab
+
+Tools: 
+- Postman, VS Code, Cursor, Claude Code, Warp
 
 
 <!-- - Web 3 (Metamask Integration, Web3.js, Ethers.js, SmartContract Integration, Web3 UI)  -->
