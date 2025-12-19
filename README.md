@@ -10,7 +10,7 @@
 
 Frontend:
 - Languages: HTML5, CSS3, Javascript, Typescript, Python
-- Libraries & Frameworks: ReactJS, NextJS, VueJS, Gatsby, AstroJS, 
+- Libraries & Frameworks: ReactJS, NextJS, NodeJs, ExpressJS, FastAPI
 - CSS Libraries: Tailwind CSS, ShadCN, Material UI, Chakra UI, Ant-Design, Bootstrap
 
 Backend:
