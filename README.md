@@ -4,7 +4,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="./icon.png" height="100px"/></a> -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Syed Faraz</h1>
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Full-Stack Engineer | React, Next.js & Node.js | SaaS & AI Application</h3>
 
 ## 🚀 Technologies I know
 
