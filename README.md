@@ -21,10 +21,10 @@ Database:
 - ORMs: Mongose, Prisma, TypeORM, Sequelize
 
 AI & LLM:
-OpenAI APIs · LangChain · RAG · Pinecone · Vector Databases
+- OpenAI APIs · LangChain · RAG · Pinecone · Vector Databases
 
 Infrastructure:
-Docker · AWS · CI/CD · Redis · RabbitMQ
+- Docker · AWS · CI/CD · Redis · RabbitMQ
 
 Third Party Services & Payment Integrations
 - CMS: Contentful, Strapi, Sanity
