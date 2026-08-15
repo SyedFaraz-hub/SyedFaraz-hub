@@ -21,15 +21,16 @@
 ## 🚀 Technologies I know
 
 **Frontend:**
-- Languages: HTML5, CSS3, JavaScript, TypeScript, Python
-- Libraries & Frameworks: ReactJS, NextJS, NodeJS, ExpressJS, FastAPI
+- Languages: HTML5, CSS3, JavaScript, TypeScript
+- Libraries & Frameworks: ReactJS, NextJS
 - CSS Libraries: Tailwind CSS, ShadCN, Material UI, Chakra UI, Ant-Design, Bootstrap
 
 **Backend:**
-- Libraries & Frameworks: NodeJS, ExpressJS, NestJs, REST API, GraphQL
+- Languages: Python
+- Libraries & Frameworks: NodeJS, ExpressJS, NestJs, FastAPI, REST API, GraphQL
 
 **Database:**
-- Databases: SQL, Postgres, MongoDB, Supabase, Firebase
+- Databases: SQL, PostgreSQL, Neon Postgres, MS SQL, MongoDB, Supabase, Firebase
 - ORMs: Mongoose, Prisma, TypeORM, Sequelize
 
 **AI & LLM:**
