@@ -2,10 +2,10 @@
 <h3 align="center">Full-Stack Engineer | React, Next.js & Node.js | SaaS & AI Applications</h3>
 
 <p align="center">
-  <a href="https://faraz-shah.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/syedfaraz-link/">LinkedIn</a> ·
-  <a href="mailto:farazshah116@gmail.com">Email</a> ·
-  <a href="https://www.upwork.com/freelancers/farazs65">Upwork</a>
+  <a target="_blank" href="https://faraz-shah.vercel.app/">Portfolio</a> ·
+  <a target="_blank" href="https://www.linkedin.com/in/syedfaraz-link/">LinkedIn</a> ·
+  <a target="_blank" href="mailto:farazshah116@gmail.com">Email</a> ·
+  <a target="_blank" href="https://www.upwork.com/freelancers/farazs65">Upwork</a>
 </p>
 
 ## About Me
