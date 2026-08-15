@@ -10,13 +10,11 @@
 
 ## About Me
 
-- Full-stack developer with 4+ years of experience turning early-stage ideas into production-ready SaaS products
-- Work spans the full lifecycle — architecting scalable backends, building polished frontends, and weaving AI into the core of the product rather than bolting it on as a feature
+- Full-stack developer turning early-stage ideas into production-ready SaaS products
 - Shipped 30+ production applications across AI-driven platforms, automation systems, and client SaaS products
 - Experience ranges from market-data trading signal services to visa case management and immigration workflow tools
 - Focused on clean architecture that holds up as a product grows, APIs that are pleasant to consume, and UIs that make complex workflows feel simple
-- Spend a lot of time on LLM integration — RAG pipelines, vector search, and agentic automation
-- Based in Karachi, Pakistan, and open to remote work with teams anywhere
+- Spend a lot of time on LLM integration, RAG pipelines, vector search, and agentic automation
 
 ## 🚀 Technologies I know
 
@@ -45,7 +43,7 @@
 
 **Deployment:**
 - Development: Surge, Netlify, Heroku, Firebase, Vercel
-- Production: AWS, Digital Ocean, and more
+- Production: AWS, DigitalOcean, and more
 
 **Version Control:**
 - Git, GitHub, GitLab
