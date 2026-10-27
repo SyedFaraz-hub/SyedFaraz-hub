@@ -1,52 +1,35 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Faraz Shah</h1>
-<h3 align="center">Full-Stack Engineer | React, Next.js & Node.js | SaaS & AI Applications</h3>
+# Hi, I'm Faraz Shah
 
-<p align="center">
-  <a target="_blank" href="https://faraz-shah.vercel.app/">Portfolio</a> ·
-  <a target="_blank" href="https://www.linkedin.com/in/syedfaraz-link/">LinkedIn</a> ·
-  <a target="_blank" href="mailto:farazshah116@gmail.com">Email</a> ·
-  <a target="_blank" href="https://www.upwork.com/freelancers/farazs65">Upwork</a>
-</p>
+**Full Stack AI Engineer** based in Karachi, Pakistan, working remotely with teams in the UK and US.
+I build AI-powered SaaS products end to end: multi-agent LLM systems, RAG, workflow automation, and the
+Python and React/Next.js applications around them.
 
-## About Me
+## What I work with
 
-- Full-stack developer turning early-stage ideas into production-ready SaaS products
-- Shipped 30+ production applications across AI-driven platforms, automation systems, and client SaaS products
-- Experience ranges from market-data trading signal services to visa case management and immigration workflow tools
-- Focused on clean architecture that holds up as a product grows, APIs that are pleasant to consume, and UIs that make complex workflows feel simple
-- Spend a lot of time on LLM integration, RAG pipelines, vector search, and agentic automation
+| | |
+|---|---|
+| **AI** | OpenAI API, LangChain, LangGraph, MCP, RAG, embeddings, tool calling, structured outputs, computer-use agents |
+| **Backend** | Python (FastAPI, Django/DRF, Celery), Node.js, PostgreSQL, MySQL, MongoDB, Redis |
+| **Frontend** | React, Next.js, TypeScript, Vite, Tailwind CSS, Electron |
+| **Quality and delivery** | pytest, Jest, Playwright, Docker, Kubernetes, CI/CD |
 
-## 🚀 Technologies I know
+## Featured open-source work
 
-**Frontend:**
-- Languages: HTML5, CSS3, JavaScript, TypeScript
-- Libraries & Frameworks: ReactJS, NextJS
-- CSS Libraries: Tailwind CSS, ShadCN, Material UI, Chakra UI, Ant-Design, Bootstrap
+- **[agentic-rag-evals](https://github.com/syedFaraz-hub/agentic-rag-evals)**: a tool-calling RAG agent with hybrid retrieval, grounded citations, SSE streaming, and an evaluation harness that gates CI.
 
-**Backend:**
-- Languages: Python
-- Libraries & Frameworks: NodeJS, ExpressJS, NestJs, FastAPI, REST API, GraphQL
+## Production work (private repositories, live products)
 
-**Database:**
-- Databases: SQL, PostgreSQL, Neon Postgres, MS SQL, MongoDB, Supabase, Firebase
-- ORMs: Mongoose, Prisma, TypeORM, Sequelize
+Most of my professional code belongs to clients, so it is not public. These are live:
 
-**AI & LLM:**
-- OpenAI APIs · LangChain · RAG · Pinecone · Vector Databases
+- **[DealIQ](https://deal-iq.io/)**: AI sales automation for car dealerships (WhatsApp and listing-site leads)
+- **[Vividly AI](https://vividlyai.ai/)**: AI content suite with chat, image, translation, and voice
+- **[Clerify](https://clerify-website.up.railway.app/)**: AI platform for immigration law firms (multi-agent case building and USCIS e-filing)
+- **[Revel](https://revelonward.com/)**: coaching platform for students, parents, and schools
 
-**Infrastructure:**
-- Docker · AWS · Azure · CI/CD · Redis · RabbitMQ
+## Currently
 
-**Third Party Services & Payment Integrations:**
-- CMS: Contentful, Strapi, Sanity
-- Payment Gateways: Stripe, Square Up, and more
+Open to remote full stack and AI engineering roles. Available immediately.
 
-**Deployment:**
-- Development: Surge, Netlify, Heroku, Firebase, Vercel
-- Production: AWS, DigitalOcean, and more
+## Find me
 
-**Version Control:**
-- Git, GitHub, GitLab
-
-**Tools:**
-- Postman, VS Code, Cursor, Claude Code, Warp
+[Portfolio](https://faraz-shah.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/syedfaraz-link/) · farazshah116@gmail.com
